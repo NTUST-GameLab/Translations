@@ -7,7 +7,7 @@
 
 1. [--0%] [Introduction](chapter1.md)
 2. [--0%] [Missions and Spaces](chapter2.md)
-3. [--0%] [Rewirte Systems](chapter3.md)
+3. [--0%] [Rewrite Systems](chapter3.md)
 4. [--0%] [Example Transformation: Locks and Keys](chapter4.md)
 5. [--0%] [Generating Mechanics](chapter5.md)
 6. [--0%] [Automated Design Tools](chapter6.md)
