@@ -6,14 +6,18 @@
 
 ## 目錄
 
-1. [100%] [Introduction](chapter1.md)
-2. [100%] [Missions and Spaces](chapter2.md)
-3. [100%] [Generative Grammars](chapter3.md)
-4. [100%] [Graph Grammar to Generate Missions](chapter4.md)
-5. [100%] [Shape Grammar to Generate Space](chapter5.md)
-6. [100%] [Generating Space From Mission](chapter6.md)
-7. [100%] [Involving Player Performance](chapter7.md)
-8. [100%] [Conclusions](chapter8.md)
+1. [100%] [Introduction](chapter1.md) by Hao-Chen
+2. [100%] [Missions and Spaces](chapter2.md) by Hao-Chen
+3. [100%] [Generative Grammars](chapter3.md) by Ze-Hao
+4. [100%] [Graph Grammar to Generate Missions](chapter4.md) by Ze-Hao
+5. [100%] [Shape Grammar to Generate Space](chapter5.md) by Ze-Hao
+6. [100%] [Generating Space From Mission](chapter6.md) by Hao-Chen
+7. [100%] [Involving Player Performance](chapter7.md) by Ze-Hao
+8. [100%] [Conclusions](chapter8.md) by Ze-Hao
+
+## 校稿進度
+
+尚未進行
 
 ## 其它
 

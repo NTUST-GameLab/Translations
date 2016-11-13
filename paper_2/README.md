@@ -5,13 +5,17 @@
 
 ## 目錄
 
-1. [--0%] [Introduction](chapter1.md)
-2. [--0%] [Missions and Spaces](chapter2.md)
-3. [--0%] [Rewrite Systems](chapter3.md)
-4. [--0%] [Example Transformation: Locks and Keys](chapter4.md)
-5. [--0%] [Generating Mechanics](chapter5.md)
-6. [--0%] [Automated Design Tools](chapter6.md)
-7. [--0%] [Conclusions](chapter7.md)
+1. [--0%] [Introduction](chapter1.md) by Pin-Lin
+2. [--0%] [Missions and Spaces](chapter2.md) by 哲
+3. [--0%] [Rewrite Systems](chapter3.md) by Ze-Hao
+4. [--0%] [Example Transformation: Locks and Keys](chapter4.md) by 哲
+5. [--0%] [Generating Mechanics](chapter5.md) by Ze-Hao
+6. [--0%] [Automated Design Tools](chapter6.md) by Pin-Lin
+7. [--0%] [Conclusions](chapter7.md) by Ze-Hao
+
+## 校稿進度
+
+尚未進行
 
 ## 其它
 
