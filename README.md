@@ -6,7 +6,9 @@
 
 ## 校稿規則
 
-請於 [issues](https://github.com/NTUST-GameLab/Translations/issues) 發布修改資訊，可參考以下範例：
+[專案成員] 請直接提交 commit。
+
+[非專案成員] 請於 [issues](https://github.com/NTUST-GameLab/Translations/issues) 發布修改資訊，可參考以下範例：
 
 ```
 Paper number: 1
