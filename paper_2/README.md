@@ -7,7 +7,7 @@
 
 1. [--0%] [Introduction](chapter1.md) by Pin-Lin
 2. [--0%] [Missions and Spaces](chapter2.md) by Yu-Che
-3. [--0%] [Rewrite Systems](chapter3.md) by Ze-Hao
+3. [100%] [Rewrite Systems](chapter3.md) by Ze-Hao
 4. [--0%] [Example Transformation: Locks and Keys](chapter4.md) by Yu-Che
 5. [--0%] [Generating Mechanics](chapter5.md) by Ze-Hao
 6. [--0%] [Automated Design Tools](chapter6.md) by Pin-Lin
