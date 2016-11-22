@@ -8,24 +8,26 @@
 
 ## 目錄
 
-1. [100%] [Introduction](chapter1.md) by Hao-Chen
-2. [100%] [Missions and Spaces](chapter2.md) by Hao-Chen
-3. [100%] [Generative Grammars](chapter3.md) by Ze-Hao
-4. [100%] [Graph Grammar to Generate Missions](chapter4.md) by Ze-Hao
-5. [100%] [Shape Grammar to Generate Space](chapter5.md) by Ze-Hao
-6. [100%] [Generating Space From Mission](chapter6.md) by Hao-Chen
-7. [100%] [Involving Player Performance](chapter7.md) by Ze-Hao
-8. [100%] [Conclusions](chapter8.md) by Ze-Hao
+1. [Introduction](chapter1.md) by Hao-Chen
+2. [Missions and Spaces](chapter2.md) by Hao-Chen
+3. [Generative Grammars](chapter3.md) by Ze-Hao
+4. [Graph Grammar to Generate Missions](chapter4.md) by Ze-Hao
+5. [Shape Grammar to Generate Space](chapter5.md) by Ze-Hao
+6. [Generating Space From Mission](chapter6.md) by Hao-Chen
+7. [Involving Player Performance](chapter7.md) by Ze-Hao
+8. [Conclusions](chapter8.md) by Ze-Hao
 
-## 校稿進度
-
-尚未進行
+<div style="page-break-before: always;"></div>
 
 ## 其它
 
 原文作者：
-  * Joris Dormans ([j.dormans@hva.nl](j.dormans@hva.nl))
+  * Joris Dormans (j.dormans@hva.nl)
 
 譯者： 
-  * Hao-Chen Wang ([bachelor.whc@gmail.com](bachelor.whc@gmail.com))
-  * Ze-Hao Wang ([salmon.zh.tw@gmail.com](salmon.zh.tw@gmail.com))
+  * Hao-Chen Wang (bachelor.whc@gmail.com)
+  * Ze-Hao Wang (salmon.zh.tw@gmail.com)
+
+審稿者：
+  * Kevin Lai (s900127127@gmail.com)
+  * Li-An Lin (jenny84311@gmail.com)
