@@ -15,10 +15,10 @@ if (process.argv.length < 3) {
 }
 
 var paper       = process.argv[2];
-var paperFolder = "../" + paper + "/";
+var paperFolder = __dirname + "/../" + paper + "/";
 
 // Padding file, to divide different files.
-var padding = "./output/padding";
+var padding = __dirname + "/output/padding";
 fs.writeFile(padding, "\n\n<div style='page-break-before: always;'></div>\n\n", function (err) { });
 
 fs.readdir(paperFolder, function (err, files) {
@@ -32,13 +32,13 @@ fs.readdir(paperFolder, function (err, files) {
 	list.splice(list.length-1, 1);
 
 	// Merge the markdown files.
-	var combined = "./output/combined.md";
-	var output   = "./output/release_" + paper + ".pdf";
+	var combined = __dirname + "/output/combined.md";
+	var output   = __dirname + "/output/release_" + paper + ".pdf";
 	concat(list, combined, function (err) {
 		/* Start rendering the DPF. */
 		var options = {};
 		options.cwd         = paperFolder;
-		options.cssPath     = "./style.css";
+		options.cssPath     = __dirname + "/style.css";
 		options.paperBorder = "12mm";
 		markdownpdf(options)
 			.from(combined)
