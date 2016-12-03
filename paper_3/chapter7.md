@@ -2,7 +2,7 @@
 
 利用**圖狀語法 (graph grammars)** 的**物理圖表 (physics diagrams)** 來定義出遊戲中的**實體 (entities)** 相當容易，不過要實作或產生與其相關的行為就相當地困難。我建議採用愈來愈受歡迎的**元件式架構 (component based architecture)** 遊戲引擎，來完成這項艱困的挑戰。這樣便能夠有效地處理各式各樣、不同行為的**遊戲物件 (game object)** [18]。相對於元件式架構的另一種選擇是繼承式架構，而後者較不適合處理不同類型的遊戲實體或遊戲物件的共用行為，而共用行為遵循了軟體工程的**組合模式 (composite pattern)** [12]。
 
-元件式架構有兩項核心類別，分別為 Components 與 Composites（備註一），其中 Composites 涵蓋了 Components。不管怎樣，由於 Composites 是從 Components 繼承而來，所以其它的 Composites 也可以涵蓋之（參見圖九）。這讓彈性的巢狀架構緊密地契合上述之物理圖表，而物理圖表中的遊戲實體能夠被其它的實體所涵蓋。在元件式架構中，遊戲物件並不如其組織方式來定義，遊戲物件是透過了許多 components 來創建，而這些 components 定義了遊戲物件的行為，但很少去定義 components 自身的行為。
+元件式架構有兩項核心類別，分別為 Components 與 Composites（備註一），其中 Composites 涵蓋了 Components。不管怎樣，由於 Composites 是從 Components 繼承而來，所以其它的 Composites 也可以涵蓋之（參見圖九）。這讓彈性的巢狀架構緊密地契合上述之物理圖表，而物理圖表中的遊戲實體能夠被其它的實體所涵蓋。在元件式架構中，遊戲物件並不如其組織方式來定義，遊戲物件是透過了許多元件來創建，而這些元件定義了遊戲物件的行為，但很少去定義元件本身的行為。
 
 > 備註一：雖然更嚴謹的實作模式會是有三種類型，分別為：Component、Composite 與 Leaf，其中 Component 是**抽象類別 (abstract class)**。
 
