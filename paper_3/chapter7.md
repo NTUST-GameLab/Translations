@@ -39,3 +39,4 @@ public class Health implements Component
 ```
 
 採用策略二，首先能夠產生物理網絡，並從中萃取出元件。這樣便可利用預期數量的交互作用與**反饋循環 (feedback loops)** 來產生出物理網絡。
+
