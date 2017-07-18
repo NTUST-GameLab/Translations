@@ -1,4 +1,4 @@
-## 結論
+## 8. 結論
 
 **Ludoscope** 是用以支援模型驅動方法的**程序化內容生成 (procedural content generation)** 軟體。該軟體包含**物理圖表 (physics diagrams)** 與**任務圖 (mission graphs)** 的擴充，具備僅有火光下可見鎖鑰組合的特徵。藉由圖形語言設計與遊戲設計的子領域，有可能將設計過程的每個設計步驟作為各種語言的圖形轉換。此外，圖形轉換可以適用在不同模型之間的轉換。例如，**生成語法 (generative grammars)** 與**轉換語法 (transformation grammars)** 可以生成物理圖表，額外的語法與任務結構同樣也適合運用在物理機制。這些設計過程不需嚴格地按部就班。
 

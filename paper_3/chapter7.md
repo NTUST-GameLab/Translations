@@ -1,4 +1,4 @@
-## 實作物理特性 (Implementing the physics)
+## 7. 實作物理特性 (Implementing the physics)
 
 利用**圖狀語法 (graph grammars)** 的**物理圖表 (physics diagrams)** 來定義出遊戲中的**實體 (entities)** 相當容易，不過要實作或產生與其相關的行為就相當地困難。我建議採用**元件式架構 (component based architecture)** 遊戲引擎，來完成這項艱困的挑戰。而且**元件式架構 (component based architecture)** 遊戲引擎越來越受歡迎。元件式架構遊戲引擎能夠有效地處理各式各樣、不同行為的**遊戲物件 (game object)** [18]。相對於元件式架構的另一種選擇是繼承式架構，而後者較不適合處理不同類型的遊戲實體或遊戲物件的共用行為，而共用行為遵循了軟體工程的**組合模式 (composite pattern)** [12]。
 
