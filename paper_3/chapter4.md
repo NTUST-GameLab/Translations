@@ -6,13 +6,13 @@
 
 鎖和鑰匙機制已經在**任務/構造(Mission/Frame framework)**中發揮了重要作用[9]。在特定的鎖和鑰匙機制中允許設計者在非線性分支結構（參見 圖1）中轉換線性任務集合。
 
-![](./img/Figure 1.PNG)
+![](./img/Figure_1.PNG)
 
-![](./img/Figure 2.PNG)
+![](./img/Figure_2.PNG)
 
-![](./img/Figure 3.PNG)
+![](./img/Figure_3.PNG)
 
-![](./img/Figure 4.PNG)
+![](./img/Figure_4.PNG)
 
 這些分支結構更適合遊戲空間的生成。在這種情況下，通過執行**變換圖語法(transformation graph grammar)**來實現變換。生成整個關卡的過程可以被分解成各自由不同語法描述的一系列變換。然而，在這個先前的報告中，鎖和鑰匙仍然是抽象的結構，我沒有嘗試為他們生成更有趣的物理機制，或者在遊戲中給他們額外的目的。
 
